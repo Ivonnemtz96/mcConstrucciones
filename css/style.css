@@ -391,7 +391,7 @@ input[type="checkbox"] {
     top: 0;
     height: 1px;
     width: 40px;
-    background: #ed5521;
+    background: #f39200;
 }
 /* line dec2 */
 .line-dec2 {
@@ -632,7 +632,7 @@ blockquote cite:before {
     content: '';
     width: 40px;
     height: 1px;
-    background: #ed5521;
+    background: #f39200;
     position: absolute;
     left: 0;
     top: 50%;
@@ -1106,7 +1106,7 @@ blockquote cite:before {
     content: '';
     width: 40px;
     height: 1px;
-    background: #ed5521;
+    background: #f39200;
     position: absolute;
     left: 0;
     top: 50%;
@@ -2041,7 +2041,7 @@ blockquote cite:before {
     left: 0;
     height: 0;
     width: 100%;
-    background-color: #ed5521;
+    background-color: #1a3c908f;
     opacity: 0.9;
     visibility: hidden
 }
@@ -3088,7 +3088,7 @@ button.mfp-arrow {
     position: absolute;
     top: 20px;
     left: 20px;
-    background: #ed5521;
+    background: #1a3c90;
     padding: 9px 14px;
     color: #fff;
 }
@@ -3109,8 +3109,8 @@ button.mfp-arrow {
 }
 .faqs-accordion .accordion .active .title {
     color: #fff;
-    background: #ed5521;
-    border: 1px solid #ed5521;
+    background: #1a3c90;
+    border: 1px solid #1a3c90;
     -webkit-box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.05);
     box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.05);
 }
@@ -3582,7 +3582,7 @@ ol.number li:before {
 }
 .circle-fill circle {
     opacity: 1;
-    fill: rgba(237, 85, 33, 0.7);
+    fill: rgba(26, 60, 144, 0.6);
 }
 .polygon {
     position: absolute;
@@ -3895,7 +3895,7 @@ ol.number li:before {
     max-height: 60px;
     min-height: 60px;
     min-width: 60px;
-    background-color: #ed5521;
+    background-color: #f39200;
     color: #fff;
     font-size: 27px;
     display: -webkit-box;
@@ -3906,7 +3906,7 @@ ol.number li:before {
     align-items: center;
 }
 .contact .contact-link-icon span {
-    background: #ed5521;
+    background: #f39200;
     color: #fff;
     width: 100%;
     text-align: center;
@@ -3940,7 +3940,7 @@ ol.number li:before {
     right: 10px;
     left: 120px;
     bottom: -20px;
-    background: #ed5521;
+    background: #f39200;
     z-index: -1;
 }
 .contact .form-wrap .form-box:after {
@@ -3989,7 +3989,7 @@ ol.number li:before {
     padding: 14px 30px;
     border: 1px solid transparent;
     border-radius: 80px;
-    background-color: #ed5521;
+    background-color: #f39200;
     -webkit-transition: border-color 400ms ease, background-color 400ms ease;
     transition: border-color 400ms ease, background-color 400ms ease;
     color: #fff;

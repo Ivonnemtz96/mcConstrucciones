@@ -4,8 +4,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 mt-60">
-                <h6>Project Images</h6>
-                <h1>Image <span>Gallery</span></h1>
+                <h6>Algunos de nuestros proyectos</h6>
+                <h1>Galería</h1>
             </div>
         </div>
     </div>
