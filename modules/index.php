@@ -2,7 +2,7 @@
  <header class="header slider-fade">
      <div class="owl-carousel owl-theme">
          <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/1.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/2.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -19,7 +19,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/2.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/1.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
