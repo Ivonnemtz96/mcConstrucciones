@@ -2,7 +2,7 @@
 <footer class="footer clearfix">
     <div class="container">
         <!-- First footer -->
-        <div class="first-footer">
+        <div hidden class="first-footer">
             <div class="row">
                 <div class="col-md-12">
                     <div class="links dark footer-contact-links">
@@ -42,7 +42,7 @@
             </div>
         </div>
         <!-- Second footer -->
-        <div class="second-footer">
+        <div hidden class="second-footer">
             <div class="row">
                 <!-- about & social icons -->
                 <div class="col-md-4 widget-area">
@@ -92,9 +92,18 @@
         </div>
         <!-- Bottom footer -->
         <div class="bottom-footer-text">
-            <div class="row copyright">
-                <div class="col-md-12">
+            <div class="row copyright align-items-center pb-0 pt-2">
+                <div class="col-md-8">
                     <p class="mb-0">©2022 <a href="#">DuruThemes</a>. All rights reserved.</p>
+                </div>
+                <div class="col-md-4">
+                    <div class="social-icons">
+                        <ul class="list-inline">
+                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
