@@ -1,6 +1,6 @@
 <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
 <section class="banner-header banner-img-top valign bg-img bg-fixed" data-overlay-dark="4"
-    data-background="img/slider/1.jpg">
+    data-background="/img/slider/1.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-5 mt-45">
@@ -41,7 +41,7 @@
                     </li>
                 </ul>
                 <div class="line-dec"></div>
-                <div class="about-bottom"> <img src="img/signature-dark.svg" alt="" class="image about-signature">
+                <div class="about-bottom"> <img src="/img/signature-dark.svg" alt="" class="image about-signature">
                     <div class="about-name-wrapper">
                         <div class="about-name">Enrico Martin</div>
                         <div class="about-rol">CEO & Founder</div>
@@ -50,7 +50,7 @@
             </div>
             <div class="col-md-6">
                 <div class="about-img fl-wrap">
-                    <img src="img/about4.jpg" class="img-fluid" alt="">
+                    <img src="/img/about4.jpg" class="img-fluid" alt="">
                     <div class="about-img-hotifer color-bg">
                         <p>Our 25 years working experience make a different construction building.</p>
                     </div>
@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="about-info-img mb-60">
-                        <div class="img"> <img src="img/about2.jpg" class="img-fluid" alt=""> </div>
+                        <div class="img"> <img src="/img/about2.jpg" class="img-fluid" alt=""> </div>
                     </div>
                     <div class="section-title2">The story of how <span>norc company</span> was founded</div>
                     <p>Build quis efficitur lacus sulvinar posuere augue eduis euro vesatien arcuman onteger leo nisl
@@ -78,7 +78,7 @@
                         auctor ac aliquam a placerat quis risus maecenas vitae tellus massa aselus faucibu in haretra.
                     </p>
                     <div class="about-info-img pt-60">
-                        <div class="img"> <img src="img/about3.jpg" class="img-fluid" alt=""> </div>
+                        <div class="img"> <img src="/img/about3.jpg" class="img-fluid" alt=""> </div>
                     </div>
                 </div>
             </div>
@@ -97,7 +97,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="team-card mb-30">
-                    <div class="team-img"><img src="img/team/1.jpg" alt="" class="w-100"></div>
+                    <div class="team-img"><img src="/img/team/1.jpg" alt="" class="w-100"></div>
                     <div class="team-content">
                         <h3 class="team-title">Adam Norman<span>CEO & Founder</span></h3>
                         <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
@@ -118,7 +118,7 @@
             </div>
             <div class="col-md-4">
                 <div class="team-card mb-30">
-                    <div class="team-img"><img src="img/team/2.jpg" alt="" class="w-100"></div>
+                    <div class="team-img"><img src="/img/team/2.jpg" alt="" class="w-100"></div>
                     <div class="team-content">
                         <h3 class="team-title">Enrico Brown<span>Head of Sales</span></h3>
                         <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
@@ -139,7 +139,7 @@
             </div>
             <div class="col-md-4">
                 <div class="team-card mb-30">
-                    <div class="team-img"><img src="img/team/3.jpg" alt="" class="w-100"></div>
+                    <div class="team-img"><img src="/img/team/3.jpg" alt="" class="w-100"></div>
                     <div class="team-content">
                         <h3 class="team-title">Olivia White<span>Lead Project Manager</span></h3>
                         <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
@@ -163,7 +163,7 @@
 </section>
 <!-- Numbers -->
 <section class="numbers">
-    <div class="section-padding bg-img bg-fixed section-padding" data-background="img/banner2.jpg"
+    <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
         data-overlay-dark="6">
         <div class="container">
             <div class="row">
@@ -270,7 +270,7 @@
 </section>
 <!-- Video & Testiominals -->
 <section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/banner.jpg" data-overlay-dark="4">
+    <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner.jpg" data-overlay-dark="4">
         <div class="container">
             <div class="row">
                 <!-- Video -->
@@ -302,38 +302,38 @@
                             <h4>Customer Reviews</h4>
                         </div>
                         <div class="owl-carousel owl-theme">
-                            <div class="item"> <span class="quote"><img src="img/quot.png" alt=""></span>
+                            <div class="item"> <span class="quote"><img src="/img/quot.png" alt=""></span>
                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/comment2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/img/team/comment2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h6>Jason Brown</h6> <span>Hollywood Hills, CA</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
-                                    <img src="img/quot.png" alt="">
+                                    <img src="/img/quot.png" alt="">
                                 </span>
                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/comment3.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/img/team/comment3.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h6>Emily White</h6> <span>Los Angeles, CA</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
-                                    <img src="img/quot.png" alt="">
+                                    <img src="/img/quot.png" alt="">
                                 </span>
                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/comment.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/img/team/comment.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h6>Enrico Smith</h6> <span>Malibu Beach, CA</span>
                                     </div>
@@ -353,22 +353,22 @@
             <div class="col-md-7">
                 <div class="owl-carousel owl-theme">
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/1.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/1.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/2.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/2.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/3.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/3.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/4.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/4.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/5.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/5.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/6.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/6.png" alt=""></a>
                     </div>
                 </div>
             </div>

@@ -1,3 +1,60 @@
+ <!-- Slider -->
+ <header class="header slider-fade">
+     <div class="owl-carousel owl-theme">
+         <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/1.jpg">
+             <div class="v-middle caption">
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-md-7">
+                             <h4>Guaranteed High Quality</h4>
+                             <h1>Welcome to Norc. Construction</h1>
+                             <p>Our 25 years working experience make a different construction building. Viverra
+                                 tristique
+                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> <a
+                                 href="projects.html" class="button-primary">Our Projects</a> <a href="services.html"
+                                 class="button-tersiyer">Our Services</a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/2.jpg">
+             <div class="v-middle caption">
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-md-7">
+                             <h4>Architecture Design</h4>
+                             <h1>We Build Great Projects</h1>
+                             <p>Our 25 years working experience make a different construction building. Viverra
+                                 tristique
+                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> <a
+                                 href="projects.html" class="button-primary">Our Projects</a> <a href="services.html"
+                                 class="button-tersiyer">Our Services</a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/3.jpg">
+             <div class="v-middle caption">
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-md-7">
+                             <h4>Professional Team</h4>
+                             <h1>Build Your Dream House</h1>
+                             <p>Our 25 years working experience make a different construction building. Viverra
+                                 tristique
+                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> <a
+                                 href="projects.html" class="button-primary">Our Projects</a> <a href="services.html"
+                                 class="button-tersiyer">Our Services</a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </header>
  <!-- About -->
  <section class="about section-padding">
      <div class="container">
@@ -30,7 +87,7 @@
                      </li>
                  </ul>
                  <div class="line-dec"></div>
-                 <div class="about-bottom"> <img src="img/signature-dark.svg" alt="" class="image about-signature">
+                 <div class="about-bottom"> <img src="/img/signature-dark.svg" alt="" class="image about-signature">
                      <div class="about-name-wrapper">
                          <div class="about-name">Adam Norman</div>
                          <div class="about-rol">CEO & Founder</div>
@@ -38,7 +95,7 @@
                  </div>
              </div>
              <div class="col-md-6">
-                 <div class="about-img"> <img src="img/about.jpg" alt="">
+                 <div class="about-img"> <img src="/img/about.jpg" alt="">
                      <div class="about-img-hotifer">
                          <p>Our 25 years working experience make a different construction building.</p>
                      </div>
@@ -59,7 +116,7 @@
          <div class="row">
              <div class="col-md-12 owl-carousel owl-theme">
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="img/services/1a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/1a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-new-construction"></i>
                          <h3 class="services3-title">Project Planning</h3>
@@ -72,7 +129,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="img/services/2a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/2a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-construction-sign"></i>
                          <h3 class="services3-title">General Contracting</h3>
@@ -85,7 +142,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="img/services/3a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/3a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-factory"></i>
                          <h3 class="services3-title">Industrial / Manufacturing</h3>
@@ -98,7 +155,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="img/services/4a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/4a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-radiation"></i>
                          <h3 class="services3-title">Energy and Environment</h3>
@@ -111,7 +168,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="img/services/5a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/5a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-cogwheel"></i>
                          <h3 class="services3-title">Const. Management</h3>
@@ -124,7 +181,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="img/services/6a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/6a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-pantone"></i>
                          <h3 class="services3-title">Interior Design</h3>
@@ -142,7 +199,7 @@
  </section>
  <!-- Process -->
  <section class="process">
-     <div class="section-padding bg-img bg-fixed section-padding" data-background="img/banner2.jpg"
+     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
          data-overlay-dark="6">
          <div class="container">
              <div class="row">
@@ -155,19 +212,19 @@
              </div>
              <div class="row">
                  <div class="col-md-3 padding">
-                     <div class="item text-center"> <img src="img/arrow1.png" class="tobotm" alt=""> <span
+                     <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
                              class="icon norc-paper"></span>
                          <h6><span>01.</span>Planing</h6>
                      </div>
                  </div>
                  <div class="col-md-3 padding">
-                     <div class="item text-center"> <img src="img/arrow1.png" alt=""> <span
+                     <div class="item text-center"> <img src="/img/arrow1.png" alt=""> <span
                              class="icon norc-pen-tool-2"></span>
                          <h6><span>02.</span>Design</h6>
                      </div>
                  </div>
                  <div class="col-md-3 padding">
-                     <div class="item text-center"> <img src="img/arrow1.png" class="tobotm" alt=""> <span
+                     <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
                              class="icon norc-new-construction"></span>
                          <h6><span>03.</span>Construct</h6>
                      </div>
@@ -193,7 +250,7 @@
          <div class="row">
              <div class="col-md-12 mb-90">
                  <div class="projects left">
-                     <figure><img src="img/projects/5.jpg" alt="" class="img-fluid"></figure>
+                     <figure><img src="/img/projects/5.jpg" alt="" class="img-fluid"></figure>
                      <div class="caption">
                          <h4>Interior Remodeling <span>in Westport, CT</span></h4>
                          <p>Construction elibero tristique mattis suspen dissen potenti seden laorien ultricies magna,
@@ -210,7 +267,7 @@
              </div>
              <div class="col-md-12 mb-90">
                  <div class="projects">
-                     <figure><img src="img/projects/1.jpg" alt="" class="img-fluid"></figure>
+                     <figure><img src="/img/projects/1.jpg" alt="" class="img-fluid"></figure>
                      <div class="caption">
                          <h4>Factory Construction <span>in Southlake, TX</span></h4>
                          <p>Construction elibero tristique mattis suspen dissen potenti seden laorien ultricies magna,
@@ -227,7 +284,7 @@
              </div>
              <div class="col-md-12">
                  <div class="projects left">
-                     <figure><img src="img/projects/6.jpg" alt="" class="img-fluid"></figure>
+                     <figure><img src="/img/projects/6.jpg" alt="" class="img-fluid"></figure>
                      <div class="caption">
                          <h4>Residential Construction <span>in Los Altos, CA</span></h4>
                          <p>Construction elibero tristique mattis suspen dissen potenti seden laorien ultricies magna,
@@ -319,7 +376,7 @@
          <div class="row">
              <div class="col-md-12 owl-carousel owl-theme">
                  <div class="team-card mb-30">
-                     <div class="team-img"><img src="img/team/1.jpg" alt="" class="w-100"></div>
+                     <div class="team-img"><img src="/img/team/1.jpg" alt="" class="w-100"></div>
                      <div class="team-content">
                          <h3 class="team-title">Adam Norman<span>CEO & Founder</span></h3>
                          <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
@@ -327,7 +384,8 @@
                          <div class="social">
                              <div class="full-width"> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i
                                          class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a> </div>
+                                 <a href="#"><i class="fa fa-instagram"></i></a>
+                             </div>
                          </div>
                      </div>
                      <div class="title-box">
@@ -335,7 +393,7 @@
                      </div>
                  </div>
                  <div class="team-card mb-30">
-                     <div class="team-img"><img src="img/team/6.jpg" alt="" class="w-100"></div>
+                     <div class="team-img"><img src="/img/team/6.jpg" alt="" class="w-100"></div>
                      <div class="team-content">
                          <h3 class="team-title">Enrico Brown<span>Head of Sales</span></h3>
                          <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
@@ -343,7 +401,8 @@
                          <div class="social">
                              <div class="full-width"> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i
                                          class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a> </div>
+                                 <a href="#"><i class="fa fa-instagram"></i></a>
+                             </div>
                          </div>
                      </div>
                      <div class="title-box">
@@ -351,7 +410,7 @@
                      </div>
                  </div>
                  <div class="team-card mb-30">
-                     <div class="team-img"><img src="img/team/5.jpg" alt="" class="w-100"></div>
+                     <div class="team-img"><img src="/img/team/5.jpg" alt="" class="w-100"></div>
                      <div class="team-content">
                          <h3 class="team-title">John Snow<span>Lead Project Manager</span></h3>
                          <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
@@ -359,7 +418,8 @@
                          <div class="social">
                              <div class="full-width"> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i
                                          class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a> </div>
+                                 <a href="#"><i class="fa fa-instagram"></i></a>
+                             </div>
                          </div>
                      </div>
                      <div class="title-box">
@@ -372,7 +432,7 @@
  </section>
  <!-- Numbers -->
  <section class="numbers">
-     <div class="section-padding bg-img bg-fixed section-padding" data-background="img/banner2.jpg"
+     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
          data-overlay-dark="6">
          <div class="container">
              <div class="row">
@@ -420,7 +480,7 @@
              <div class="col-md-12">
                  <div class="owl-carousel owl-theme">
                      <div class="item">
-                         <div class="position-re o-hidden"> <img src="img/news/5.jpg" alt="">
+                         <div class="position-re o-hidden"> <img src="/img/news/5.jpg" alt="">
                              <div class="date">
                                  <a href="post.html"> <span>Dec</span> <i>10</i> </a>
                              </div>
@@ -439,7 +499,7 @@
                          </div>
                      </div>
                      <div class="item">
-                         <div class="position-re o-hidden"> <img src="img/news/3.jpg" alt="">
+                         <div class="position-re o-hidden"> <img src="/img/news/3.jpg" alt="">
                              <div class="date">
                                  <a href="post.html"> <span>Dec</span> <i>06</i> </a>
                              </div>
@@ -458,7 +518,7 @@
                          </div>
                      </div>
                      <div class="item">
-                         <div class="position-re o-hidden"> <img src="img/news/4.jpg" alt="">
+                         <div class="position-re o-hidden"> <img src="/img/news/4.jpg" alt="">
                              <div class="date">
                                  <a href="post.html"> <span>Dec</span> <i>08</i> </a>
                              </div>
@@ -477,7 +537,7 @@
                          </div>
                      </div>
                      <div class="item">
-                         <div class="position-re o-hidden"> <img src="img/news/2.jpg" alt="">
+                         <div class="position-re o-hidden"> <img src="/img/news/2.jpg" alt="">
                              <div class="date">
                                  <a href="post.html"> <span>Dec</span> <i>04</i> </a>
                              </div>
@@ -497,7 +557,7 @@
                      </div>
 
                      <div class="item">
-                         <div class="position-re o-hidden"> <img src="img/news/1.jpg" alt="">
+                         <div class="position-re o-hidden"> <img src="/img/news/1.jpg" alt="">
                              <div class="date">
                                  <a href="post.html"> <span>Dec</span> <i>02</i> </a>
                              </div>
@@ -516,7 +576,7 @@
                          </div>
                      </div>
                      <div class="item">
-                         <div class="position-re o-hidden"> <img src="img/news/6.jpg" alt="">
+                         <div class="position-re o-hidden"> <img src="/img/news/6.jpg" alt="">
                              <div class="date">
                                  <a href="post.html"> <span>Dec</span> <i>12</i> </a>
                              </div>
@@ -541,7 +601,7 @@
  </section>
  <!-- Video & Testiominals -->
  <section class="testimonials">
-     <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/banner.jpg"
+     <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner.jpg"
          data-overlay-dark="4">
          <div class="container">
              <div class="row">
@@ -574,38 +634,38 @@
                              <h4>Customer Reviews</h4>
                          </div>
                          <div class="owl-carousel owl-theme">
-                             <div class="item"> <span class="quote"><img src="img/quot.png" alt=""></span>
+                             <div class="item"> <span class="quote"><img src="/img/quot.png" alt=""></span>
                                  <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                      busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="img/team/comment2.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/comment2.jpg" alt=""> </div>
                                      <div class="cont">
                                          <h6>Jason Brown</h6> <span>Hollywood Hills, CA</span>
                                      </div>
                                  </div>
                              </div>
                              <div class="item"> <span class="quote">
-                                     <img src="img/quot.png" alt="">
+                                     <img src="/img/quot.png" alt="">
                                  </span>
                                  <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                      busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="img/team/comment3.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/comment3.jpg" alt=""> </div>
                                      <div class="cont">
                                          <h6>Emily White</h6> <span>Los Angeles, CA</span>
                                      </div>
                                  </div>
                              </div>
                              <div class="item"> <span class="quote">
-                                     <img src="img/quot.png" alt="">
+                                     <img src="/img/quot.png" alt="">
                                  </span>
                                  <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                      busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="img/team/comment.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/comment.jpg" alt=""> </div>
                                      <div class="cont">
                                          <h6>Enrico Smith</h6> <span>Malibu Beach, CA</span>
                                      </div>
@@ -625,22 +685,22 @@
              <div class="col-md-7">
                  <div class="owl-carousel owl-theme">
                      <div class="clients-logo">
-                         <a href="#0"><img src="img/clients/1.png" alt=""></a>
+                         <a href="#0"><img src="/img/clients/1.png" alt=""></a>
                      </div>
                      <div class="clients-logo">
-                         <a href="#0"><img src="img/clients/2.png" alt=""></a>
+                         <a href="#0"><img src="/img/clients/2.png" alt=""></a>
                      </div>
                      <div class="clients-logo">
-                         <a href="#0"><img src="img/clients/3.png" alt=""></a>
+                         <a href="#0"><img src="/img/clients/3.png" alt=""></a>
                      </div>
                      <div class="clients-logo">
-                         <a href="#0"><img src="img/clients/4.png" alt=""></a>
+                         <a href="#0"><img src="/img/clients/4.png" alt=""></a>
                      </div>
                      <div class="clients-logo">
-                         <a href="#0"><img src="img/clients/5.png" alt=""></a>
+                         <a href="#0"><img src="/img/clients/5.png" alt=""></a>
                      </div>
                      <div class="clients-logo">
-                         <a href="#0"><img src="img/clients/6.png" alt=""></a>
+                         <a href="#0"><img src="/img/clients/6.png" alt=""></a>
                      </div>
                  </div>
              </div>

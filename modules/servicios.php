@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <section class="banner-header banner-img-top valign bg-img bg-fixed" data-overlay-dark="4"
-    data-background="img/slider/1.jpg">
+    data-background="/img/slider/1.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-5 mt-45">
@@ -17,7 +17,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="img/services/1.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/1.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-new-construction"></i> </div>
@@ -31,7 +31,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="img/services/2.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/2.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-construction-sign"></i> </div>
@@ -45,7 +45,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="img/services/3.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/3.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-factory"></i> </div>
@@ -59,7 +59,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="img/services/4.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/4.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-radiation"></i> </div>
@@ -73,7 +73,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="img/services/5.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/5.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
@@ -87,7 +87,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="img/services/6.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/6.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-pantone"></i> </div>
@@ -103,7 +103,7 @@
 </section>
 <!-- Numbers -->
 <section class="numbers">
-    <div class="section-padding bg-img bg-fixed section-padding" data-background="img/banner2.jpg"
+    <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
         data-overlay-dark="6">
         <div class="container">
             <div class="row">
@@ -207,7 +207,7 @@
 </section>
 <!-- Video & Testiominals -->
 <section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/banner.jpg" data-overlay-dark="4">
+    <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner.jpg" data-overlay-dark="4">
         <div class="container">
             <div class="row">
                 <!-- Video -->
@@ -239,38 +239,38 @@
                             <h4>Customer Reviews</h4>
                         </div>
                         <div class="owl-carousel owl-theme">
-                            <div class="item"> <span class="quote"><img src="img/quot.png" alt=""></span>
+                            <div class="item"> <span class="quote"><img src="/img/quot.png" alt=""></span>
                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/comment2.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/img/team/comment2.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h6>Jason Brown</h6> <span>Hollywood Hills, CA</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
-                                    <img src="img/quot.png" alt="">
+                                    <img src="/img/quot.png" alt="">
                                 </span>
                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/comment3.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/img/team/comment3.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h6>Emily White</h6> <span>Los Angeles, CA</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="item"> <span class="quote">
-                                    <img src="img/quot.png" alt="">
+                                    <img src="/img/quot.png" alt="">
                                 </span>
                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
                                 </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/comment.jpg" alt=""> </div>
+                                    <div class="author-img"> <img src="/img/team/comment.jpg" alt=""> </div>
                                     <div class="cont">
                                         <h6>Enrico Smith</h6> <span>Malibu Beach, CA</span>
                                     </div>
@@ -290,22 +290,22 @@
             <div class="col-md-7">
                 <div class="owl-carousel owl-theme">
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/1.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/1.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/2.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/2.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/3.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/3.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/4.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/4.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/5.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/5.png" alt=""></a>
                     </div>
                     <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/6.png" alt=""></a>
+                        <a href="#0"><img src="/img/clients/6.png" alt=""></a>
                     </div>
                 </div>
             </div>

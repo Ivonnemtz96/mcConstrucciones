@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <section class="banner-header banner-img-top valign bg-img bg-fixed" data-overlay-dark="4"
-    data-background="img/slider/1.jpg">
+    data-background="/img/slider/1.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-5 mt-45">
