@@ -365,7 +365,7 @@ input[type="checkbox"] {
 .listext-icon i {
     font-size: 20px;
     color: #fff;
-    background-color: #ed5521;
+    background-color: #1a3c90;
     border-radius: 50%;
     padding: 3px;
 }
@@ -647,7 +647,7 @@ blockquote cite:before {
     margin-bottom: 20px; 
 }
 .section-title2 span {
-    color: #ed5521;
+    color: #1a3c90;
 }
 
 
@@ -1355,7 +1355,7 @@ blockquote cite:before {
     content: '';
     width: 40px;
     height: 1px;
-    background: #ed5521;
+    background: #f39200;
     position: absolute;
     left: 0;
     top: 50%;
@@ -1373,7 +1373,7 @@ blockquote cite:before {
     position: relative;
 }
 .banner-header h1 span {
-    color: #ed5521
+    color: #1a3c90
 }
 .banner-header p {
     font-size: 16px;
@@ -1555,7 +1555,7 @@ blockquote cite:before {
     left: 0;
     right: 80px;
     bottom: 80px;
-    background: #ed5521;
+    background: #f39200;
 }
 .about-info .about-info-img .img img {
     position: relative;
@@ -1767,7 +1767,7 @@ blockquote cite:before {
     min-width: 60px;
     margin-bottom: 20px;
     margin-top: -60px;
-    background-color: #ed5521;
+    background-color: #f39200;
     color: #fff;
     font-size: 30px;
     display: -webkit-box;
