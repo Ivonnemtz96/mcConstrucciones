@@ -7,13 +7,13 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-md-7">
-                             <h4>Guaranteed High Quality</h4>
-                             <h1>Welcome to Norc. Construction</h1>
-                             <p>Our 25 years working experience make a different construction building. Viverra
+                             <h4>Trabajos de calidad</h4>
+                             <h2>Construyendo tus ideas.. <br> Diseñando tu futuro</h2>
+                             <!-- <p>Our 25 years working experience make a different construction building. Viverra
                                  tristique
-                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> <a
-                                 href="projects.html" class="button-primary">Our Projects</a> <a href="services.html"
-                                 class="button-tersiyer">Our Services</a>
+                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> -->
+                             <a href="/galeria" class="button-primary">Galería</a>
+                             <a href="/servicios" class="button-tersiyer">Servicios</a>
                          </div>
                      </div>
                  </div>
@@ -24,19 +24,21 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-md-7">
-                             <h4>Architecture Design</h4>
-                             <h1>We Build Great Projects</h1>
-                             <p>Our 25 years working experience make a different construction building. Viverra
+                             <h4>Diseño arquitéctonico</h4>
+                             <h2>Trbajos hechos a la medida <br> de nuestros clientes</h2>
+                             <!-- <p>
+                                Our 25 years working experience make a different construction building. Viverra
                                  tristique
-                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> <a
-                                 href="projects.html" class="button-primary">Our Projects</a> <a href="services.html"
-                                 class="button-tersiyer">Our Services</a>
+                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.
+                            </p>  -->
+                             <a href="/galeria" class="button-primary">Galería</a>
+                             <a href="/servicios" class="button-tersiyer">Servicios</a>
                          </div>
                      </div>
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/3.jpg">
+         <!-- <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/3.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -52,7 +54,7 @@
                      </div>
                  </div>
              </div>
-         </div>
+         </div> -->
      </div>
  </header>
  <!-- About -->
@@ -60,44 +62,84 @@
      <div class="container">
          <div class="row">
              <div class="col-md-6 mb-30">
-                 <div class="section-subtitle">Construction Firm</div>
-                 <div class="section-title">About <span>norc</span></div>
-                 <p>Our company at libero tristique mattis. Suspendisse potenti sed leonra main dignissim justo porta
-                     eget. Curabitur luctus magna numsaton vivention esellentesue the miss tenis vitae mollie.</p>
-                 <p>Curabitur luctus magna numsaton vivention esellentesue the mis awa vitan sedeonra magnain dignissim
-                     porta.</p>
+                 <div class="section-subtitle">Mc Construcciones</div>
+                 <div class="section-title">Un poco de <span>nosotros</span></div>
+                 <p>
+                     MC construcciones nace en el 2012 a raíz de ver el crecimiento tan acelerado en nuestro
+                     municipio de desarrollos inmobiliarios, hoteles, fraccionamientos, casas habitación
+                     entre otras y a la poca mano de obra calificada para satisfacerlos con calidad y
+                     excelencia profesional.
+                 </p>
                  <ul class="listext list-unstyled mb-30">
                      <li>
                          <div class="listext-icon"> <i class="norc-d-check"></i> </div>
                          <div class="listext-text">
-                             <p>Over 25 years of experience</p>
+                             <p>+10 años de experiencia</p>
                          </div>
                      </li>
                      <li>
                          <div class="listext-icon"> <i class="norc-d-check"></i> </div>
                          <div class="listext-text">
-                             <p>100+ successfully executed projects</p>
+                             <p>+200 proyectos realizados</p>
                          </div>
                      </li>
                      <li>
                          <div class="listext-icon"> <i class="norc-d-check"></i> </div>
                          <div class="listext-text">
-                             <p>Exceptional work quality</p>
+                             <p>Trabajo de calidad</p>
                          </div>
                      </li>
                  </ul>
                  <div class="line-dec"></div>
-                 <div class="about-bottom"> <img src="/img/signature-dark.svg" alt="" class="image about-signature">
+                 <!-- <div class="about-bottom"> <img src="/img/signature-dark.svg" alt="" class="image about-signature">
                      <div class="about-name-wrapper">
                          <div class="about-name">Adam Norman</div>
                          <div class="about-rol">CEO & Founder</div>
                      </div>
-                 </div>
+                 </div> -->
              </div>
              <div class="col-md-6">
                  <div class="about-img"> <img src="/img/about.jpg" alt="">
                      <div class="about-img-hotifer">
-                         <p>Our 25 years working experience make a different construction building.</p>
+                         <p>Nuestros más de 10 años de experiencia laboral hacen un edificio de construcción diferente.
+                         </p>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
+  <!-- Numbers -->
+  <section class="numbers">
+     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
+         data-overlay-dark="6">
+         <div class="container">
+             <div class="row">
+                 <div class="col-md-4">
+                     <div class="item text-center"> <span class="icon">
+                             <i class="front norc-design"></i>
+                             <i class="back norc-design"></i>
+                         </span>
+                         <h3 class="count">450</h3>
+                         <h6><span>01.</span> Proyectos diseñados</h6>
+                     </div>
+                 </div>
+                 <div class="col-md-4">
+                     <div class="item text-center"> <span class="icon">
+                             <i class="font norc-b-meeting"></i>
+                             <i class="back norc-b-meeting"></i>
+                         </span>
+                         <h3 class="count">450</h3>
+                         <h6><span>02.</span> Clientes satisfechos</h6>
+                     </div>
+                 </div>
+                 <div class="col-md-4">
+                     <div class="item text-center"> <span class="icon">
+                             <i class="front norc-paper-diploma"></i>
+                             <i class="back norc-paper-diploma"></i>
+                         </span>
+                         <h3 class="count">350</h3>
+                         <h6><span>03.</span> proyectos termiandos</h6>
                      </div>
                  </div>
              </div>
@@ -109,8 +151,8 @@
      <div class="container">
          <div class="row">
              <div class="col-md-12">
-                 <div class="section-subtitle">What We Do</div>
-                 <div class="section-title">Our <span>Services</span></div>
+                 <div class="section-subtitle">¿Qué hacemos?</div>
+                 <div class="section-title">Nuestros <span>Servicios</span></div>
              </div>
          </div>
          <div class="row">
@@ -119,127 +161,102 @@
                      <div class="services3-img"><img src="/img/services/1a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-new-construction"></i>
-                         <h3 class="services3-title">Project Planning</h3>
-                         <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.</p>
-                         <a href="services-page.html" class="link-btn" tabindex="0">View service</a>
+                         <h3 class="services3-title">Diseños</h3>
+                         <p class="services3-text">
+                             Arquitectónicos. <br>
+                             Estructurales. <br>
+                             Instalaciones. <br>
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-new-construction"></i> Project Planning</h3>
+                         <h3 class="mb-0"><i class="norc-new-construction"></i> Diseños</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/2a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-construction-sign"></i>
-                         <h3 class="services3-title">General Contracting</h3>
-                         <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.</p>
-                         <a href="services-page.html" class="link-btn" tabindex="0">View service</a>
+                         <h3 class="services3-title">Construcción</h3>
+                         <p class="services3-text">
+                             Nuestros proyectos de Construcción Residencial son desarrollados con los más altos
+                             estándares de calidad en cada parte del proceso.
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-construction-sign"></i> General Contracting</h3>
+                         <h3 class="mb-0"><i class="norc-construction-sign"></i> Construcción</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/3a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-factory"></i>
-                         <h3 class="services3-title">Industrial / Manufacturing</h3>
-                         <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.</p>
-                         <a href="services-page.html" class="link-btn" tabindex="0">View service</a>
+                         <h3 class="services3-title">Presupuestos</h3>
+                         <p class="services3-text">
+                             Realizamos el presupuesto de su construcción tomando en cuenta los mejores y más duraderos
+                             materiales.
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-factory"></i> Industrial / Manufacturing</h3>
+                         <h3 class="mb-0"><i class="norc-factory"></i> Presupuestos</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/4a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-radiation"></i>
-                         <h3 class="services3-title">Energy and Environment</h3>
-                         <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.</p>
-                         <a href="services-page.html" class="link-btn" tabindex="0">View service</a>
+                         <h3 class="services3-title">Construcción.</h3>
+                         <p class="services3-text">
+                             Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
+                             accumsa amet tincidunt risus nesuen.
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-radiation"></i> Energy and Environment</h3>
+                         <h3 class="mb-0"><i class="norc-radiation"></i> Construcción.</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/5a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-cogwheel"></i>
-                         <h3 class="services3-title">Const. Management</h3>
+                         <h3 class="services3-title">Plomería</h3>
                          <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
                              accumsa amet tincidunt risus nesuen.</p>
-                         <a href="services-page.html" class="link-btn" tabindex="0">View service</a>
+                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-cogwheel"></i> Const. Management</h3>
+                         <h3 class="mb-0"><i class="norc-cogwheel"></i> Plomería</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/6a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-pantone"></i>
-                         <h3 class="services3-title">Interior Design</h3>
+                         <h3 class="services3-title">Acabados internos</h3>
                          <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
                              accumsa amet tincidunt risus nesuen.</p>
-                         <a href="services-page.html" class="link-btn" tabindex="0">View service</a>
+                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-pantone"></i> Interior Design</h3>
+                         <h3 class="mb-0"><i class="norc-pantone"></i> Acabados internos</h3>
                      </div>
                  </div>
+             </div>
+
+         </div>
+         <div class="row">
+             <div class="col-md-12 text-center mt-5">
+                 <a href="/servicios" class="button-primary">Ver más servicios</a>
              </div>
          </div>
      </div>
  </section>
- <!-- Process -->
- <section class="process">
-     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
-         data-overlay-dark="6">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-6 offset-md-3 mb-45 text-center">
-                     <h5>How We Work</h5>
-                     <h2>Our Process</h2>
-                     <p>Suspendisse potenti sed laoen ultra magna in dignissim justo porta miss acurabitur luctus magna
-                         numsation elentesue the miss vitae moie.</p>
-                 </div>
-             </div>
-             <div class="row">
-                 <div class="col-md-3 padding">
-                     <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
-                             class="icon norc-paper"></span>
-                         <h6><span>01.</span>Planing</h6>
-                     </div>
-                 </div>
-                 <div class="col-md-3 padding">
-                     <div class="item text-center"> <img src="/img/arrow1.png" alt=""> <span
-                             class="icon norc-pen-tool-2"></span>
-                         <h6><span>02.</span>Design</h6>
-                     </div>
-                 </div>
-                 <div class="col-md-3 padding">
-                     <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
-                             class="icon norc-new-construction"></span>
-                         <h6><span>03.</span>Construct</h6>
-                     </div>
-                 </div>
-                 <div class="col-md-3 padding">
-                     <div class="item text-center"> <span class="icon norc-trophy"></span>
-                         <h6><span>04.</span>Finishing</h6>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </section>
+
  <!-- Projects -->
- <section class="projects section-padding">
+ <section hidden class="projects section-padding">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
@@ -303,49 +320,98 @@
          </div>
      </div>
  </section>
+ <!-- Process -->
+ <section class="process">
+     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
+         data-overlay-dark="6">
+         <div class="container">
+             <div class="row">
+                 <div class="col-md-6 offset-md-3 mb-45 text-center">
+                     <h5>¿Cómo trabajamos?</h5>
+                     <h2>Nuestro proceso</h2>
+                     <p>Suspendisse potenti sed laoen ultra magna in dignissim justo porta miss acurabitur luctus magna
+                         numsation elentesue the miss vitae moie.</p>
+                 </div>
+             </div>
+             <div class="row">
+                 <div class="col-md-3 padding">
+                     <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
+                             class="icon norc-paper"></span>
+                         <h6><span>01.</span>Planeación</h6>
+                     </div>
+                 </div>
+                 <div class="col-md-3 padding">
+                     <div class="item text-center"> <img src="/img/arrow1.png" alt=""> <span
+                             class="icon norc-pen-tool-2"></span>
+                         <h6><span>02.</span>Diseño</h6>
+                     </div>
+                 </div>
+                 <div class="col-md-3 padding">
+                     <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
+                             class="icon norc-new-construction"></span>
+                         <h6><span>03.</span>Construcción</h6>
+                     </div>
+                 </div>
+                 <div class="col-md-3 padding">
+                     <div class="item text-center"> <span class="icon norc-trophy"></span>
+                         <h6><span>04.</span>Entrega</h6>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </section>
  <!-- Values -->
  <section class="values section-padding bg-gray">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
-                 <div class="section-subtitle">Our Values</div>
-                 <div class="section-title">Core <span>Values</span></div>
+                 <!-- <div class="section-subtitle">Nuestros valores</div> -->
+                 <div class="section-title">Nuestros <span>Valores</span></div>
              </div>
          </div>
          <div class="row">
-             <div class="col-md-4">
+             <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-construction-sign"></span>
-                     <h5>Safety</h5>
-                     <p>Safety will always come first as we strive for accident-free projects. Fusce tidunt nis ace park
-                         norttito amet space.</p>
+                     <h5>Actitud de servicio</h5>
+                     <p>
+                         Somos proactivos y nos interesamos en la
+                         prestación eficiente y eficaz de nuestros
+                         servicios.<br><br>
+                     </p>
                      <div class="facility-shape"> <span class="norc-construction-sign"></span> </div>
                  </div>
              </div>
-             <div class="col-md-4">
+             <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-bulb-63"></span>
-                     <h5>Innovation</h5>
-                     <p>Nulla quis effi vivento acus suvina sene in atue eduis euro vesatien arcum the onte nisl auctor
-                         a menas vitae.</p>
+                     <h5>Innovación</h5>
+                     <p>
+                         Ofreciendo siempre las mejores alternativas de
+                         solución dentro de la empresa y con nuestros
+                         clientes. <br><br>
+                     </p>
                      <div class="facility-shape"> <span class="norc-bulb-63"></span> </div>
                  </div>
              </div>
-             <div class="col-md-4">
+             <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-paper-diploma"></span>
-                     <h5>Quality</h5>
-                     <p>Nulla quis effi vivento acus suvina sene in atue eduis euro vesatien arcum the onte nisl auctor
-                         a menas vitae.</p>
+                     <h5>Puntualidad</h5>
+                     <p>
+                         Permanente en nuestro trabajo diario y respeto por el tiempo de cada cliente. <br><br><br><br>
+                     </p>
                      <div class="facility-shape"> <span class="norc-paper-diploma"></span> </div>
                  </div>
              </div>
-             <div class="col-md-4">
+             <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-chess-knight"></span>
-                     <h5>Integrity</h5>
-                     <p>Nulla quis effi vivento acus suvina sene in atue eduis euro vesatien arcum the onte nisl auctor
-                         a menas vitae.</p>
+                     <h5>Honestidad </h5>
+                     <p>
+                     Trascendente y sobre todo saludable en cada una de las actividades que realizamos. <br><br><br><br>
+                     </p>
                      <div class="facility-shape"> <span class="norc-chess-knight"></span> </div>
                  </div>
              </div>
-             <div class="col-md-4">
+             <!-- <div class="col-md-4">
                  <div class="single-facility"> <span class="norc-strategy"></span>
                      <h5>Strategy</h5>
                      <p>Nulla quis effi vivento acus suvina sene in atue eduis euro vesatien arcum the onte nisl auctor
@@ -360,12 +426,14 @@
                          a menas vitae.</p>
                      <div class="facility-shape"> <span class="norc-flag-points-32"></span> </div>
                  </div>
-             </div>
+             </div> -->
          </div>
      </div>
  </section>
+
+  
  <!-- Team -->
- <section class="team section-padding">
+ <section hidden class="team section-padding">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
@@ -430,175 +498,8 @@
          </div>
      </div>
  </section>
- <!-- Numbers -->
- <section class="numbers">
-     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
-         data-overlay-dark="6">
-         <div class="container">
-             <div class="row">
-                 <div class="col-md-4">
-                     <div class="item text-center"> <span class="icon">
-                             <i class="front norc-design"></i>
-                             <i class="back norc-design"></i>
-                         </span>
-                         <h3 class="count">675</h3>
-                         <h6><span>01.</span> Projects Design</h6>
-                     </div>
-                 </div>
-                 <div class="col-md-4">
-                     <div class="item text-center"> <span class="icon">
-                             <i class="font norc-b-meeting"></i>
-                             <i class="back norc-b-meeting"></i>
-                         </span>
-                         <h3 class="count">450</h3>
-                         <h6><span>02.</span> Happy Clients</h6>
-                     </div>
-                 </div>
-                 <div class="col-md-4">
-                     <div class="item text-center"> <span class="icon">
-                             <i class="front norc-paper-diploma"></i>
-                             <i class="back norc-paper-diploma"></i>
-                         </span>
-                         <h3 class="count">550</h3>
-                         <h6><span>03.</span> Completed Projects</h6>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </section>
- <!-- News -->
- <section class="news section-padding bg-gray">
-     <div class="container">
-         <div class="row">
-             <div class="col-md-12">
-                 <div class="section-subtitle"><span>Latest News</span></div>
-                 <div class="section-title">Our <span>Blog</span></div>
-             </div>
-         </div>
-         <div class="row">
-             <div class="col-md-12">
-                 <div class="owl-carousel owl-theme">
-                     <div class="item">
-                         <div class="position-re o-hidden"> <img src="/img/news/5.jpg" alt="">
-                             <div class="date">
-                                 <a href="post.html"> <span>Dec</span> <i>10</i> </a>
-                             </div>
-                         </div>
-                         <div class="con">
-                             <h5><a href="post.html">Construction Delivery Methods Training</a></h5>
-                             <div class="divider"></div>
-                             <div class="news-info">
-                                 <div class="split-content news-info-left">
-                                     <div class="news-icon-wrapper"> <i class="norc-new-construction"></i> </div>
-                                     <div class="card-news-date-text">Construction</div>
-                                 </div>
-                                 <div class="split-content news-info-right"> <a href="#" class="link-btn"
-                                         tabindex="0">Read more</a> </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="item">
-                         <div class="position-re o-hidden"> <img src="/img/news/3.jpg" alt="">
-                             <div class="date">
-                                 <a href="post.html"> <span>Dec</span> <i>06</i> </a>
-                             </div>
-                         </div>
-                         <div class="con">
-                             <h5><a href="post.html">Modern Glass Building in Construction</a></h5>
-                             <div class="divider"></div>
-                             <div class="news-info">
-                                 <div class="split-content news-info-left">
-                                     <div class="news-icon-wrapper"> <i class="norc-pantone"></i> </div>
-                                     <div class="card-news-date-text">Interior</div>
-                                 </div>
-                                 <div class="split-content news-info-right"> <a href="#" class="link-btn"
-                                         tabindex="0">Read more</a> </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="item">
-                         <div class="position-re o-hidden"> <img src="/img/news/4.jpg" alt="">
-                             <div class="date">
-                                 <a href="post.html"> <span>Dec</span> <i>08</i> </a>
-                             </div>
-                         </div>
-                         <div class="con">
-                             <h5><a href="post.html">Factory renovation architecture works</a></h5>
-                             <div class="divider"></div>
-                             <div class="news-info">
-                                 <div class="split-content news-info-left">
-                                     <div class="news-icon-wrapper"> <i class="norc-factory"></i> </div>
-                                     <div class="card-news-date-text">Industrial</div>
-                                 </div>
-                                 <div class="split-content news-info-right"> <a href="#" class="link-btn"
-                                         tabindex="0">Read more</a> </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="item">
-                         <div class="position-re o-hidden"> <img src="/img/news/2.jpg" alt="">
-                             <div class="date">
-                                 <a href="post.html"> <span>Dec</span> <i>04</i> </a>
-                             </div>
-                         </div>
-                         <div class="con">
-                             <h5><a href="post.html">Construction Site Security Guide</a></h5>
-                             <div class="divider"></div>
-                             <div class="news-info">
-                                 <div class="split-content news-info-left">
-                                     <div class="news-icon-wrapper"> <i class="norc-new-construction"></i> </div>
-                                     <div class="card-news-date-text">Construction</div>
-                                 </div>
-                                 <div class="split-content news-info-right"> <a href="#" class="link-btn"
-                                         tabindex="0">Read more</a> </div>
-                             </div>
-                         </div>
-                     </div>
 
-                     <div class="item">
-                         <div class="position-re o-hidden"> <img src="/img/news/1.jpg" alt="">
-                             <div class="date">
-                                 <a href="post.html"> <span>Dec</span> <i>02</i> </a>
-                             </div>
-                         </div>
-                         <div class="con">
-                             <h5><a href="post.html">Airport Runway Construction Process</a></h5>
-                             <div class="divider"></div>
-                             <div class="news-info">
-                                 <div class="split-content news-info-left">
-                                     <div class="news-icon-wrapper"> <i class="norc-factory"></i> </div>
-                                     <div class="card-news-date-text">Industrial</div>
-                                 </div>
-                                 <div class="split-content news-info-right"> <a href="#" class="link-btn"
-                                         tabindex="0">Read more</a> </div>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="item">
-                         <div class="position-re o-hidden"> <img src="/img/news/6.jpg" alt="">
-                             <div class="date">
-                                 <a href="post.html"> <span>Dec</span> <i>12</i> </a>
-                             </div>
-                         </div>
-                         <div class="con">
-                             <h5><a href="post.html">Exterior House Colors Combinations</a></h5>
-                             <div class="divider"></div>
-                             <div class="news-info">
-                                 <div class="split-content news-info-left">
-                                     <div class="news-icon-wrapper"> <i class="norc-pantone"></i> </div>
-                                     <div class="card-news-date-text">Interior</div>
-                                 </div>
-                                 <div class="split-content news-info-right"> <a href="#" class="link-btn"
-                                         tabindex="0">Read more</a> </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
- </section>
+
  <!-- Video & Testiominals -->
  <section class="testimonials">
      <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner.jpg"
@@ -679,7 +580,7 @@
      </div>
  </section>
  <!-- Clients -->
- <section class="clients">
+ <section hidden class="clients">
      <div class="container">
          <div class="row">
              <div class="col-md-7">
