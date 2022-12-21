@@ -598,8 +598,8 @@ blockquote cite:before {
 }
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-    background: #ed5521;
-    border: 1px solid #ed5521;
+    background: #f39200;
+    border: 1px solid #f39200;
 }
 
 
@@ -617,7 +617,7 @@ blockquote cite:before {
     margin-bottom: 20px;
 }
 .section-title span {
-    color: #ed5521;
+    color: #1a3c90;
 }
 .section-subtitle {
     font-size: 16px;
@@ -1245,8 +1245,8 @@ blockquote cite:before {
 }
 .slider-fade .owl-theme .owl-dots .owl-dot.active span,
 .slider-fade .owl-theme .owl-dots .owl-dot:hover span {
-    background: #ed5521;
-    border: 1px solid #ed5521;
+    background: #f39200;
+    border: 1px solid #f39200;
 }
 .slider .owl-theme .owl-dots {
     position: absolute;
@@ -1469,7 +1469,7 @@ blockquote cite:before {
     right: 50%;
     bottom: 50%;
     z-index: 1;
-    background: #ed5520;
+    background: #f39200;
 }
 .about-img img {
 	position: relative;
@@ -1487,7 +1487,7 @@ blockquote cite:before {
     z-index: 11;
     border-radius: 2px;
     text-align: left;
-    background: #ed5521;
+    background: #f39200;
     box-shadow: 0 5px 25px rgb(0 0 0 / 5%);
 }
 .about-img-hotifer:before {
@@ -2003,7 +2003,7 @@ blockquote cite:before {
     right: 20px;
     bottom: 0;
     z-index: 2;
-    background-color: #ed5520;
+    background-color: #f39200;
     padding: 30px 0;
     opacity: 1;
     visibility: visible;
@@ -2176,7 +2176,7 @@ blockquote cite:before {
     display: inline-block;
     -webkit-transition: .5s;
     transition: .5s;
-    background: #ed5521;
+    background: #f39200;
     padding: 10px;
 }
 .values .single-facility p {
@@ -3401,7 +3401,7 @@ button.mfp-arrow {
     height: 80px;
     line-height: 80px;
     border-radius: 50%;
-    background: #ed5521;
+    background: #f39200;
     position: relative;
     margin-bottom: 40px;
     z-index: 2;
@@ -3444,7 +3444,7 @@ button.mfp-arrow {
 }
 .process .item h6 span {
     font-size: 14px;
-    color: #ed5521;
+    color: #f39200;
     margin-right: 10px;
 }
 .process p,
@@ -3492,7 +3492,7 @@ button.mfp-arrow {
     bottom: 5px;
     line-height: 80px;
     border-radius: 50%;
-    background: #ed5521;
+    background: #f39200;
 }
 .numbers .item .icon .back {
     background: #fff;
@@ -3512,7 +3512,7 @@ button.mfp-arrow {
 }
 .numbers .item h6 span {
     font-size: 14px;
-    color: #ed5521;
+    color: #f39200;
     margin-right: 10px;
 }
 ol.number {
@@ -3708,7 +3708,7 @@ ol.number li:before {
     background: #fff;
     padding: 45px;
     margin-bottom: -60px;
-    border-top: 7px solid #ed5521;
+    border-top: 7px solid #f39200;
 }
 .testimonials-box .head-box h6 {
     position: relative;
@@ -3967,7 +3967,7 @@ ol.number li:before {
     padding: 14px 30px;
     border: 1px solid transparent;
     border-radius: 80px;
-    background-color: #ed5521;
+    background-color: #f39200;
     -webkit-transition: border-color 400ms ease, color 400ms ease, background-color 400ms ease;
     transition: border-color 400ms ease, color 400ms ease, background-color 400ms ease;
     color: #fff;
