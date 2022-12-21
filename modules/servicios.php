@@ -21,13 +21,13 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-new-construction"></i> </div>
-                        <h5><a href="services-page.html">Diseños</a></h5>
+                        <h5><a href="#">Diseños</a></h5>
                         <p>
                         Arquitectónicos. <br>
                         Estructurales. <br>
                         Instalaciones.
                         </p> 
-                        <!-- <a href="services-page.html" class="link-btn" tabindex="0">View
+                        <!-- <a href="#" class="link-btn" tabindex="0">View
                             service</a> -->
                     </div>
                 </div>
@@ -39,10 +39,10 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-construction-sign"></i> </div>
-                        <h5><a href="services-page.html">Presupuestos</a></h5>
+                        <h5><a href="#">Presupuestos</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p> 
-                            <!-- <a href="services-page.html" class="link-btn" tabindex="0">View
+                            <!-- <a href="#" class="link-btn" tabindex="0">View
                             service</a> -->
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-factory"></i> </div>
-                        <h5><a href="services-page.html">Construcción.</a></h5>
+                        <h5><a href="#">Construcción.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p>
                     </div>
@@ -67,7 +67,7 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-radiation"></i> </div>
-                        <h5><a href="services-page.html">Remodelación.</a></h5>
+                        <h5><a href="#">Remodelación.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p>
                     </div>
@@ -80,7 +80,7 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
-                        <h5><a href="services-page.html">Acabados internos.</a></h5>
+                        <h5><a href="#">Acabados internos.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p> 
                     </div>
@@ -93,7 +93,7 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-pantone"></i> </div>
-                        <h5><a href="services-page.html">Plomería.</a></h5>
+                        <h5><a href="#">Plomería.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p>
                     </div>
@@ -106,7 +106,7 @@
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-pantone"></i> </div>
-                        <h5><a href="services-page.html">Electricidad.</a></h5>
+                        <h5><a href="#">Electricidad.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p>
                     </div>
