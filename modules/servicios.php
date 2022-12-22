@@ -102,7 +102,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/6.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/7.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-pantone"></i> </div>
