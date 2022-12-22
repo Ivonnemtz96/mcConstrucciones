@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-md-5 mt-45">
                 <h6>¿Tienes alguna duda o busca cotización?</h6>
-                <h1>Contác<span>tanos</span></h1>
+                <h1>Contáctanos</h1>
             </div>
         </div>
     </div>
