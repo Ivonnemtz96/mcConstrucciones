@@ -2160,7 +2160,7 @@ blockquote cite:before {
     margin-bottom: 10px;
 }
 .values .single-facility:hover h5 {
-  color: #ed5521;
+  color: #f39200;
   -webkit-transition: .5s;
   transition: .5s;
 }
