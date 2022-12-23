@@ -92,7 +92,7 @@
                         <div class="img"> <img src="/img/services/6.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-pantone"></i> </div>
+                        <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
                         <h5><a href="#">Plomería.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p>
@@ -105,7 +105,7 @@
                         <div class="img"> <img src="/img/services/7.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-pantone"></i> </div>
+                        <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
                         <h5><a href="#">Electricidad.</a></h5>
                         <p>Quisque imperdie miss sapien porttiton the bibendum. Pellentesque accumsa amet tincidunt
                             risus nesuen.</p>

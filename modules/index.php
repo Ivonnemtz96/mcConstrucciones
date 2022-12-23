@@ -25,7 +25,7 @@
                      <div class="row">
                          <div class="col-md-7">
                              <h4>Diseño arquitéctonico</h4>
-                             <h2>Trbajos hechos a la medida <br> de nuestros clientes</h2>
+                             <h2>Trabajos hechos a la medida <br> de nuestros clientes</h2>
                              <!-- <p>
                                 Our 25 years working experience make a different construction building. Viverra
                                  tristique
@@ -502,8 +502,8 @@
 
  <!-- Video & Testiominals -->
  <section class="testimonials">
-     <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner.jpg"
-         data-overlay-dark="4">
+     <div class="background bg-img bg-fixed section-padding pb-0 " data-background="/img/banner.jpg"
+         data-overlay-dark="4" style="margin-bottom: 6rem;">
          <div class="container">
              <div class="row">
                  <!-- Video -->
@@ -540,7 +540,7 @@
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque reiciendis dolores modi facere aspernatur. Reprehenderit magni maxime quo accusamus pariatur?
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="/img/team/comment2.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/user.png" alt=""> </div>
                                      <div class="cont">
                                          <h6>Cliente 1</h6>
                                      </div>
@@ -553,7 +553,7 @@
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, ipsa? Eius autem dolorem architecto reiciendis, deleniti perferendis nemo mollitia quo.
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="/img/team/comment3.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/user.png" alt=""> </div>
                                      <div class="cont">
                                          <h6> Cliente 2</h6>
                                      </div>
@@ -566,7 +566,7 @@
                                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi eveniet error ut, est iure nisi reprehenderit eos fugiat omnis quibusdam?
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="/img/team/comment.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/user.png" alt=""> </div>
                                      <div class="cont">
                                          <h6>Cliente 3</h6>
                                      </div>

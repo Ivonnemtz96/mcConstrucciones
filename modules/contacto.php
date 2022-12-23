@@ -23,8 +23,8 @@
                     <div class="contact-link-icon"><span class="norc-phone"></span></div>
                     <div class="contact-link-content">
                         <div class="contact-link-title">Teléfono</div>
-                        <div class="contact-link-text"><span>Ing. Mario Mendoza</span> <a
-                                href="tel:6243583690">6243583690</a></div>
+                        <div class="contact-link-text"><a
+                                href="tel:6243583690"><span>Ing. Mario Mendoza</span> 6243583690</a></div>
                     </div>
                 </div>
 
@@ -32,8 +32,8 @@
                     <div class="contact-link-icon"><span class="norc-phone"></span></div>
                     <div class="contact-link-content">
                         <div class="contact-link-title">Teléfono</div>
-                        <div class="contact-link-text"><span>Ing. Raúl Mendoza</span> <a
-                                href="tel:6241450004">6241450004</a></div>
+                        <div class="contact-link-text"> <a
+                                href="tel:6241450004"><span>Ing. Raúl Mendoza</span> 6241450004</a></div>
                     </div>
                 </div>
                 <div class="contact-link">
