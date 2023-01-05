@@ -94,7 +94,7 @@
         <div class="bottom-footer-text">
             <div class="row copyright align-items-center pb-0 pt-2">
                 <div class="col-md-8">
-                    <p class="mb-0">©2022 <a href="#">DuruThemes</a>. All rights reserved.</p>
+                    <p class="mb-0">©2022 <a href="#">MC Construcciones</a>.Designed by <a href="https://bananagroup.mx">Banana Group Marketing</a>.</p>
                 </div>
                 <div class="col-md-4">
                     <div class="social-icons">

@@ -813,7 +813,7 @@ blockquote cite:before {
     color: #fff;
 }
 .navbar .navbar-nav .nav-link:hover {
-    color: #ed5521;
+    color: #f39401;
 }
 .navbar .navbar-nav .active {
     color: #ed5521 !important;
@@ -1373,7 +1373,7 @@ blockquote cite:before {
     position: relative;
 }
 .banner-header h1 span {
-    color: #1a3c90
+    color: #f39300
 }
 .banner-header p {
     font-size: 16px;

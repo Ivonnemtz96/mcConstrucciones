@@ -7,13 +7,13 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-md-7">
-                             <h4>Trabajos de calidad</h4>
-                             <h2>Construyendo tus ideas.. <br> Diseñando tu futuro</h2>
+                             <h4>Quality jobs</h4>
+                             <h2>Building your ideas.. <br> Designing your future</h2>
                              <!-- <p>Our 25 years working experience make a different construction building. Viverra
                                  tristique
                                  usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> -->
-                             <a href="/galeria" class="button-primary">Galería</a>
-                             <a href="/servicios" class="button-tersiyer">Servicios</a>
+                             <a href="/galeria" class="button-primary">Gallery</a>
+                             <a href="/servicios" class="button-tersiyer">Services</a>
                          </div>
                      </div>
                  </div>
@@ -24,15 +24,15 @@
                  <div class="container">
                      <div class="row">
                          <div class="col-md-7">
-                             <h4>Diseño arquitéctonico</h4>
-                             <h2>Trbajos hechos a la medida <br> de nuestros clientes</h2>
+                             <h4>Architectural design</h4>
+                             <h2>Quality works <br> For our customers</h2>
                              <!-- <p>
                                 Our 25 years working experience make a different construction building. Viverra
                                  tristique
                                  usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.
                             </p>  -->
-                             <a href="/galeria" class="button-primary">Galería</a>
-                             <a href="/servicios" class="button-tersiyer">Servicios</a>
+                             <a href="/galeria" class="button-primary">Gallery</a>
+                             <a href="/servicios" class="button-tersiyer">Services</a>
                          </div>
                      </div>
                  </div>
@@ -63,30 +63,29 @@
          <div class="row">
              <div class="col-md-6 mb-30">
                  <div class="section-subtitle">Mc Construcciones</div>
-                 <div class="section-title">Un poco de <span>nosotros</span></div>
+                 <div class="section-title">About <span>Us</span></div>
                  <p>
-                     MC construcciones nace en el 2012 a raíz de ver el crecimiento tan acelerado en nuestro
-                     municipio de desarrollos inmobiliarios, hoteles, fraccionamientos, casas habitación
-                     entre otras y a la poca mano de obra calificada para satisfacerlos con calidad y
-                     excelencia profesional.
+                     MC Construcciones was born in 2012 as a result of the accelerated growth of real estate
+                     developments, hotels, subdivisions, housing, among others, in our municipality and the lack of
+                     qualified labor to satisfy them with quality and professional excellence.
                  </p>
                  <ul class="listext list-unstyled mb-30">
                      <li>
                          <div class="listext-icon"> <i class="norc-d-check"></i> </div>
                          <div class="listext-text">
-                             <p>+10 años de experiencia</p>
+                             <p>+10 Years of experience</p>
                          </div>
                      </li>
                      <li>
                          <div class="listext-icon"> <i class="norc-d-check"></i> </div>
                          <div class="listext-text">
-                             <p>+200 proyectos realizados</p>
+                             <p>+200 Projects completed</p>
                          </div>
                      </li>
                      <li>
                          <div class="listext-icon"> <i class="norc-d-check"></i> </div>
                          <div class="listext-text">
-                             <p>Trabajo de calidad</p>
+                             <p>Professional work</p>
                          </div>
                      </li>
                  </ul>
@@ -101,7 +100,8 @@
              <div class="col-md-6">
                  <div class="about-img"> <img src="/img/about.jpg" alt="">
                      <div class="about-img-hotifer">
-                         <p>Nuestros más de 10 años de experiencia laboral hacen un edificio de construcción diferente.
+                         <p>
+                             Our more than 10 years of work experience make a building different.
                          </p>
                      </div>
                  </div>
@@ -109,8 +109,8 @@
          </div>
      </div>
  </section>
-  <!-- Numbers -->
-  <section class="numbers">
+ <!-- Numbers -->
+ <section class="numbers">
      <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
          data-overlay-dark="6">
          <div class="container">
@@ -121,7 +121,7 @@
                              <i class="back norc-design"></i>
                          </span>
                          <h3 class="count">450</h3>
-                         <h6><span>01.</span> Proyectos diseñados</h6>
+                         <h6><span>01.</span> Designed projects</h6>
                      </div>
                  </div>
                  <div class="col-md-4">
@@ -130,7 +130,7 @@
                              <i class="back norc-b-meeting"></i>
                          </span>
                          <h3 class="count">450</h3>
-                         <h6><span>02.</span> Clientes satisfechos</h6>
+                         <h6><span>02.</span> Satisfied customers</h6>
                      </div>
                  </div>
                  <div class="col-md-4">
@@ -139,7 +139,7 @@
                              <i class="back norc-paper-diploma"></i>
                          </span>
                          <h3 class="count">350</h3>
-                         <h6><span>03.</span> proyectos termiandos</h6>
+                         <h6><span>03.</span> Projects completed</h6>
                      </div>
                  </div>
              </div>
@@ -151,8 +151,8 @@
      <div class="container">
          <div class="row">
              <div class="col-md-12">
-                 <div class="section-subtitle">¿Qué hacemos?</div>
-                 <div class="section-title">Nuestros <span>Servicios</span></div>
+                 <div class="section-subtitle">What we do?</div>
+                 <div class="section-title">Our <span>Services</span></div>
              </div>
          </div>
          <div class="row">
@@ -161,87 +161,91 @@
                      <div class="services3-img"><img src="/img/services/1a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-new-construction"></i>
-                         <h3 class="services3-title">Diseños</h3>
+                         <h3 class="services3-title">Design</h3>
                          <p class="services3-text">
-                             Arquitectónicos. <br>
-                             Estructurales. <br>
-                             Instalaciones. <br>
+                             Architectural. <br>
+                             Structural. <br>
+                             Installations. <br>
                          </p>
-                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
+                         <a href="/servicios" class="link-btn" tabindex="0">View services</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-new-construction"></i> Diseños</h3>
+                         <h3 class="mb-0"><i class="norc-new-construction"></i> Design</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/2a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-construction-sign"></i>
-                         <h3 class="services3-title">Construcción</h3>
+                         <h3 class="services3-title">Building</h3>
                          <p class="services3-text">
-                             Nuestros proyectos de Construcción Residencial son desarrollados con los más altos
-                             estándares de calidad en cada parte del proceso.
+                             Our Residential Construction projects are developed with the highest quality standards in
+                             every part of the process.
                          </p>
-                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
+                         <a href="/servicios" class="link-btn" tabindex="0">View services</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-construction-sign"></i> Construcción</h3>
+                         <h3 class="mb-0"><i class="norc-construction-sign"></i> Building</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
                      <div class="services3-img"><img src="/img/services/3a.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-factory"></i>
-                         <h3 class="services3-title">Presupuestos</h3>
+                         <h3 class="services3-title">Budgets</h3>
                          <p class="services3-text">
-                             Realizamos el presupuesto de su construcción tomando en cuenta los mejores y más duraderos
-                             materiales.
+                             We make the budget of your construction taking into account the best and most durable
+                             materials.
                          </p>
-                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
+                         <a href="/servicios" class="link-btn" tabindex="0">View services</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-factory"></i> Presupuestos</h3>
+                         <h3 class="mb-0"><i class="norc-factory"></i> Budgets</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/4a.jpg" alt="" class="w-100"></div>
-                     <div class="services3-content">
-                         <i class="norc-radiation"></i>
-                         <h3 class="services3-title">Construcción.</h3>
-                         <p class="services3-text">
-                             Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.
-                         </p>
-                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
-                     </div>
-                     <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-radiation"></i> Construcción.</h3>
-                     </div>
-                 </div>
-                 <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/5a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/7.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-cogwheel"></i>
-                         <h3 class="services3-title">Plomería</h3>
-                         <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.</p>
-                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
+                         <h3 class="services3-title">Plumbing</h3>
+                         <p class="services3-text">
+                             Plumbing experts who will carry out the installation of the entire water system in the
+                             project.
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">View services</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-cogwheel"></i> Plomería</h3>
+                         <h3 class="mb-0"><i class="norc-cogwheel"></i> Plumbing</h3>
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/6a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/8.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-pantone"></i>
-                         <h3 class="services3-title">Acabados internos</h3>
-                         <p class="services3-text">Quisque imperdie miss sapien porttiton the bibendum. Pellentesque
-                             accumsa amet tincidunt risus nesuen.</p>
-                         <a href="/servicios" class="link-btn" tabindex="0">Ver servicios</a>
+                         <h3 class="services3-title">Interior finishes</h3>
+                         <p class="services3-text">
+                             A mix of textures well combined can be an attractive option for different spaces, we design
+                             it.
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">View services</a>
                      </div>
                      <div class="title-box">
-                         <h3 class="mb-0"><i class="norc-pantone"></i> Acabados internos</h3>
+                         <h3 class="mb-0"><i class="norc-pantone"></i> Interior finishes</h3>
+                     </div>
+                 </div>
+
+                 <div class="services3 mb-30">
+                     <div class="services3-img"><img src="/img/services/9.jpg" alt="" class="w-100"></div>
+                     <div class="services3-content">
+                         <i class="norc-pantone"></i>
+                         <h3 class="services3-title">Remodeling</h3>
+                         <p class="services3-text">
+                         We make a change in a space, which may include the structure of the space or simply the decoration or interior design to adapt it to your needs.
+                         </p>
+                         <a href="/servicios" class="link-btn" tabindex="0">View services</a>
+                     </div>
+                     <div class="title-box">
+                         <h3 class="mb-0"><i class="norc-pantone"></i> Remodeling</h3>
                      </div>
                  </div>
              </div>
@@ -249,77 +253,13 @@
          </div>
          <div class="row">
              <div class="col-md-12 text-center mt-5">
-                 <a href="/servicios" class="button-primary">Ver más servicios</a>
+                 <a href="/servicios" class="button-primary">View more services</a>
              </div>
          </div>
      </div>
  </section>
 
- <!-- Projects -->
- <section hidden class="projects section-padding">
-     <div class="container">
-         <div class="row">
-             <div class="col-md-12">
-                 <div class="section-subtitle">Latest Works</div>
-                 <div class="section-title">Our <span>Projects</span></div>
-             </div>
-         </div>
-         <div class="row">
-             <div class="col-md-12 mb-90">
-                 <div class="projects left">
-                     <figure><img src="/img/projects/5.jpg" alt="" class="img-fluid"></figure>
-                     <div class="caption">
-                         <h4>Interior Remodeling <span>in Westport, CT</span></h4>
-                         <p>Construction elibero tristique mattis suspen dissen potenti seden laorien ultricies magna,
-                             in dignissim justo porta eget miss vention ormana the miss drana on the tenis vitae mollie.
-                         </p>
-                         <div class="line-dec"></div>
-                         <div class="info-wrapper">
-                             <div class="date"><i class="norc-new-construction"></i> Renovation</div>
-                             <div class="more"><a href="project-page.html" class="link-btn" tabindex="0">Discover</a>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-             <div class="col-md-12 mb-90">
-                 <div class="projects">
-                     <figure><img src="/img/projects/1.jpg" alt="" class="img-fluid"></figure>
-                     <div class="caption">
-                         <h4>Factory Construction <span>in Southlake, TX</span></h4>
-                         <p>Construction elibero tristique mattis suspen dissen potenti seden laorien ultricies magna,
-                             in dignissim justo porta eget miss vention ormana the miss drana on the tenis vitae mollie.
-                         </p>
-                         <div class="line-dec"></div>
-                         <div class="info-wrapper">
-                             <div class="date"><i class="norc-factory"></i> Construction</div>
-                             <div class="more"><a href="project-page.html" class="link-btn" tabindex="0">Discover</a>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-             <div class="col-md-12">
-                 <div class="projects left">
-                     <figure><img src="/img/projects/6.jpg" alt="" class="img-fluid"></figure>
-                     <div class="caption">
-                         <h4>Residential Construction <span>in Los Altos, CA</span></h4>
-                         <p>Construction elibero tristique mattis suspen dissen potenti seden laorien ultricies magna,
-                             in dignissim justo porta eget miss vention ormana the miss drana on the tenis vitae mollie.
-                         </p>
-                         <div class="line-dec"></div>
-                         <div class="info-wrapper">
-                             <div class="date"><i class="norc-construction-sign"></i> Building</div>
-                             <div class="more"><a href="project-page.html" class="link-btn" tabindex="0">Discover</a>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
 
-         </div>
-     </div>
- </section>
  <!-- Process -->
  <section class="process">
      <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
@@ -327,86 +267,86 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-6 offset-md-3 mb-45 text-center">
-                     <h5>¿Cómo trabajamos?</h5>
-                     <h2>Nuestro proceso</h2>
-                     <p>Suspendisse potenti sed laoen ultra magna in dignissim justo porta miss acurabitur luctus magna
-                         numsation elentesue the miss vitae moie.</p>
+                     <h5>How do we work?</h5>
+                     <h2>Our processes</h2>
+                     <!-- <p>Suspendisse potenti sed laoen ultra magna in dignissim justo porta miss acurabitur luctus magna
+                         numsation elentesue the miss vitae moie.</p> -->
                  </div>
              </div>
              <div class="row">
                  <div class="col-md-3 padding">
                      <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
                              class="icon norc-paper"></span>
-                         <h6><span>01.</span>Planeación</h6>
+                         <h6><span>01.</span>Planning</h6>
                      </div>
                  </div>
                  <div class="col-md-3 padding">
                      <div class="item text-center"> <img src="/img/arrow1.png" alt=""> <span
                              class="icon norc-pen-tool-2"></span>
-                         <h6><span>02.</span>Diseño</h6>
+                         <h6><span>02.</span>Design</h6>
                      </div>
                  </div>
                  <div class="col-md-3 padding">
                      <div class="item text-center"> <img src="/img/arrow1.png" class="tobotm" alt=""> <span
                              class="icon norc-new-construction"></span>
-                         <h6><span>03.</span>Construcción</h6>
+                         <h6><span>03.</span>Construction</h6>
                      </div>
                  </div>
                  <div class="col-md-3 padding">
                      <div class="item text-center"> <span class="icon norc-trophy"></span>
-                         <h6><span>04.</span>Entrega</h6>
+                         <h6><span>04.</span>Submission</h6>
                      </div>
                  </div>
              </div>
          </div>
      </div>
  </section>
+
  <!-- Values -->
  <section class="values section-padding bg-gray">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
                  <!-- <div class="section-subtitle">Nuestros valores</div> -->
-                 <div class="section-title">Nuestros <span>Valores</span></div>
+                 <div class="section-title">Our <span>Values</span></div>
              </div>
          </div>
          <div class="row">
              <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-construction-sign"></span>
-                     <h5>Actitud de servicio</h5>
+                     <h5>Attitude of service</h5>
                      <p>
-                         Somos proactivos y nos interesamos en la
-                         prestación eficiente y eficaz de nuestros
-                         servicios.<br><br>
+                         We are proactive and are interested in the efficient and effective delivery of our services.
+                         <br><br>
                      </p>
                      <div class="facility-shape"> <span class="norc-construction-sign"></span> </div>
                  </div>
              </div>
              <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-bulb-63"></span>
-                     <h5>Innovación</h5>
+                     <h5>Innovation</h5>
                      <p>
-                         Ofreciendo siempre las mejores alternativas de
-                         solución dentro de la empresa y con nuestros
-                         clientes. <br><br>
+                         To always offer the best solution alternatives within the company and with our clients.
+                         <br><br><br>
                      </p>
                      <div class="facility-shape"> <span class="norc-bulb-63"></span> </div>
                  </div>
              </div>
              <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-paper-diploma"></span>
-                     <h5>Puntualidad</h5>
+                     <h5>On time</h5>
                      <p>
-                         Permanente en nuestro trabajo diario y respeto por el tiempo de cada cliente. <br><br><br><br>
+                         Permanence in daily work and respect for each client's time. <br><br><br><br>
                      </p>
                      <div class="facility-shape"> <span class="norc-paper-diploma"></span> </div>
                  </div>
              </div>
              <div class="col-md-3">
                  <div class="single-facility"> <span class="norc-chess-knight"></span>
-                     <h5>Honestidad </h5>
+                     <h5>Honesty </h5>
                      <p>
-                     Trascendente y sobre todo saludable en cada una de las actividades que realizamos. <br><br><br><br>
+                         Transcendent and above all healthy in each of the activities we carry out.
+                         <br><br><br><br>
                      </p>
                      <div class="facility-shape"> <span class="norc-chess-knight"></span> </div>
                  </div>
@@ -427,74 +367,6 @@
                      <div class="facility-shape"> <span class="norc-flag-points-32"></span> </div>
                  </div>
              </div> -->
-         </div>
-     </div>
- </section>
-
-  
- <!-- Team -->
- <section hidden class="team section-padding">
-     <div class="container">
-         <div class="row">
-             <div class="col-md-12">
-                 <div class="section-subtitle">Expert Worker</div>
-                 <div class="section-title">Meet <span>Our Team</span></div>
-             </div>
-         </div>
-         <div class="row">
-             <div class="col-md-12 owl-carousel owl-theme">
-                 <div class="team-card mb-30">
-                     <div class="team-img"><img src="/img/team/1.jpg" alt="" class="w-100"></div>
-                     <div class="team-content">
-                         <h3 class="team-title">Adam Norman<span>CEO & Founder</span></h3>
-                         <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
-                             arcuman ontese auctor ac aleuam aretra.</p>
-                         <div class="social">
-                             <div class="full-width"> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i
-                                         class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="title-box">
-                         <h3 class="mb-0">Adam Norman<span>CEO & Founder</span></h3>
-                     </div>
-                 </div>
-                 <div class="team-card mb-30">
-                     <div class="team-img"><img src="/img/team/6.jpg" alt="" class="w-100"></div>
-                     <div class="team-content">
-                         <h3 class="team-title">Enrico Brown<span>Head of Sales</span></h3>
-                         <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
-                             arcuman ontese auctor ac aleuam aretra.</p>
-                         <div class="social">
-                             <div class="full-width"> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i
-                                         class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="title-box">
-                         <h3 class="mb-0">Enrico Brown<span>Head of Sales</span></h3>
-                     </div>
-                 </div>
-                 <div class="team-card mb-30">
-                     <div class="team-img"><img src="/img/team/5.jpg" alt="" class="w-100"></div>
-                     <div class="team-content">
-                         <h3 class="team-title">John Snow<span>Lead Project Manager</span></h3>
-                         <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
-                             arcuman ontese auctor ac aleuam aretra.</p>
-                         <div class="social">
-                             <div class="full-width"> <a href="#"><i class="fa fa-linkedin"></i></a> <a href="#"><i
-                                         class="fa fa-facebook"></i></a> <a href="#"><i class="fa fa-twitter"></i></a>
-                                 <a href="#"><i class="fa fa-instagram"></i></a>
-                             </div>
-                         </div>
-                     </div>
-                     <div class="title-box">
-                         <h3 class="mb-0">John Snow<span>Lead Project Manager</span></h3>
-                     </div>
-                 </div>
-             </div>
          </div>
      </div>
  </section>
@@ -523,7 +395,7 @@
                          <div class="cont mt-30 mb-30">
                              <h6>Promo Video</h6>
                              <h4>Video About Company</h4>
-                             <p>Video showing our 25 years of business experience.</p>
+                             <p>Video showing our 10 years of business experience.</p>
                          </div>
                      </div>
                  </div>
