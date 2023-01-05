@@ -2160,7 +2160,7 @@ blockquote cite:before {
     margin-bottom: 10px;
 }
 .values .single-facility:hover h5 {
-  color: #ed5521;
+  color: #f39200;
   -webkit-transition: .5s;
   transition: .5s;
 }
@@ -3380,7 +3380,7 @@ button.mfp-arrow {
 }
 .process .item:hover .icon {
   background: #fff !important;
-  color: #ed5521;
+  color: #f39200;
 }
 .process .item img {
   position: absolute;
@@ -3559,7 +3559,7 @@ ol.number li:before {
     content: '';
     width: 40px;
     height: 1px;
-    background: #ed5521;
+    background: #f39200;
     position: absolute;
     left: 0;
     top: 50%;
@@ -4018,8 +4018,8 @@ ol.number li:before {
     text-align: center;
 }
 .button-tersiyer:hover {
-    border: 1px solid #ed5521;
-    background-color: #ed5521;
+    border: 1px solid #1a3c90;
+    background-color: #1a3c90;
     color: #fff;
 }
 /* line hover  */
@@ -4215,10 +4215,10 @@ ol.number li:before {
     font-size: 14px;
 }
 .copyright p a {
-    color: #ed5521;
+    color: #f39200;
 }
 .copyright p a:hover {
-    color: #ed5521;
+    color: #f39200;
 }
 /* social icons */
 .social-icons li {
@@ -4379,7 +4379,7 @@ ol.number li:before {
   text-align: center;
   line-height: 50px;
   font-size: 26px;
-  color: #fc5e16;
+  color: #f39200;
   left: 0;
   top: 0;
   height: 50px;

@@ -374,8 +374,8 @@
 
  <!-- Video & Testiominals -->
  <section class="testimonials">
-     <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner.jpg"
-         data-overlay-dark="4">
+     <div class="background bg-img bg-fixed section-padding pb-0 " data-background="/img/banner.jpg"
+         data-overlay-dark="4" style="margin-bottom: 6rem;">
          <div class="container">
              <div class="row">
                  <!-- Video -->
@@ -403,44 +403,44 @@
                  <div class="col-md-5 offset-md-1">
                      <div class="testimonials-box">
                          <div class="head-box">
-                             <h6>What said about us</h6>
-                             <h4>Customer Reviews</h4>
+                             <h6>¿Qué dicen nuestros clientes de nosotros?</h6>
+                             <h4>Opiniones</h4>
                          </div>
                          <div class="owl-carousel owl-theme">
                              <div class="item"> <span class="quote"><img src="/img/quot.png" alt=""></span>
-                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
-                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
+                                 <p class="v-border">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque reiciendis dolores modi facere aspernatur. Reprehenderit magni maxime quo accusamus pariatur?
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="/img/team/comment2.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/user.png" alt=""> </div>
                                      <div class="cont">
-                                         <h6>Jason Brown</h6> <span>Hollywood Hills, CA</span>
+                                         <h6>Cliente 1</h6>
                                      </div>
                                  </div>
                              </div>
                              <div class="item"> <span class="quote">
                                      <img src="/img/quot.png" alt="">
                                  </span>
-                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
-                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
+                                 <p class="v-border">
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti, ipsa? Eius autem dolorem architecto reiciendis, deleniti perferendis nemo mollitia quo.
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="/img/team/comment3.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/user.png" alt=""> </div>
                                      <div class="cont">
-                                         <h6>Emily White</h6> <span>Los Angeles, CA</span>
+                                         <h6> Cliente 2</h6>
                                      </div>
                                  </div>
                              </div>
                              <div class="item"> <span class="quote">
                                      <img src="/img/quot.png" alt="">
                                  </span>
-                                 <p class="v-border">Company kaya nisl ullamcorper the duru metu enna lophare mavna
-                                     busnini viventa the ornare ipsuma. Curabitur magna pentesue the miss tenis vitae.
+                                 <p class="v-border">
+                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi eveniet error ut, est iure nisi reprehenderit eos fugiat omnis quibusdam?
                                  </p>
                                  <div class="info">
-                                     <div class="author-img"> <img src="/img/team/comment.jpg" alt=""> </div>
+                                     <div class="author-img"> <img src="/img/team/user.png" alt=""> </div>
                                      <div class="cont">
-                                         <h6>Enrico Smith</h6> <span>Malibu Beach, CA</span>
+                                         <h6>Cliente 3</h6>
                                      </div>
                                  </div>
                              </div>
