@@ -617,7 +617,7 @@ blockquote cite:before {
     margin-bottom: 20px;
 }
 .section-title span {
-    color: #1a3c90;
+    color: #f39300;
 }
 .section-subtitle {
     font-size: 16px;
@@ -2160,7 +2160,7 @@ blockquote cite:before {
     margin-bottom: 10px;
 }
 .values .single-facility:hover h5 {
-  color: #f39200;
+  color: #1a3b90;
   -webkit-transition: .5s;
   transition: .5s;
 }

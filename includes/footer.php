@@ -99,9 +99,9 @@
                 <div class="col-md-4">
                     <div class="social-icons">
                         <ul class="list-inline">
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://wa.me/+526243583690?text=Hola,%20me%20gustaría%20más%20información."><i class="fa fa-whatsapp"></i></a></li>
+                            <li><a href="https://www.instagram.com/_mcconstrucciones/"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/MC-Construcciones-114339608194874"><i class="fa fa-facebook"></i></a></li>
                         </ul>
                     </div>
                 </div>

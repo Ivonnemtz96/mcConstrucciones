@@ -240,7 +240,7 @@
                          <i class="norc-pantone"></i>
                          <h3 class="services3-title">Remodeling</h3>
                          <p class="services3-text">
-                         We make a change in a space, which may include the structure of the space or simply the decoration or interior design to adapt it to your needs.
+                         We make a change in a space, which may include the structure or simply the decoration or interior design to adapt it to your needs.
                          </p>
                          <a href="/servicios" class="link-btn" tabindex="0">View services</a>
                      </div>
@@ -379,7 +379,7 @@
          <div class="container">
              <div class="row">
                  <!-- Video -->
-                 <div class="col-md-6 mb-30 valign">
+                 <div hidden class="col-md-6 mb-30 valign">
                      <div class="vid-area">
                          <div class="vid-icon">
                              <a class="play-button vid" href="https://youtu.be/z4nO6NuEM3A">
@@ -400,7 +400,7 @@
                      </div>
                  </div>
                  <!-- Testiominals -->
-                 <div class="col-md-5 offset-md-1">
+                 <div class="col-md-6 offset-md-1">
                      <div class="testimonials-box">
                          <div class="head-box">
                              <h6>¿Qué dicen nuestros clientes de nosotros?</h6>

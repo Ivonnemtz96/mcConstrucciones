@@ -38,7 +38,7 @@
                         <div class="img"> <img src="/img/services/2.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-construction-sign"></i> </div>
+                        <div class="service-icon"> <i class="norc-paper"></i> </div>
                         <h5><a href="#">Budgets</a></h5>
                         <p>
                             We make the budget of your construction taking into account the best and most durable
@@ -70,10 +70,10 @@
                         <div class="img"> <img src="/img/services/4.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-radiation"></i> </div>
+                        <div class="service-icon"> <i class="norc-construction-sign"></i> </div>
                         <h5><a href="#">Remodeling.</a></h5>
                         <p>
-                            We make a change in a space, which may include the structure of the space or simply the
+                            We make a change in a space, which may include the structure or simply the
                             decoration or interior design to adapt it to your needs.
                         </p>
                     </div>
@@ -85,7 +85,7 @@
                         <div class="img"> <img src="/img/services/5.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
+                        <div class="service-icon"> <i class="norc-pantone"></i> </div>
                         <h5><a href="#">Interior finishes.</a></h5>
                         <p>
                             A mix of textures well combined can be an attractive option for different spaces, we design
@@ -100,7 +100,7 @@
                         <div class="img"> <img src="/img/services/6.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-pantone"></i> </div>
+                        <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
                         <h5><a href="#">Plumbing.</a></h5>
                         <p>
                             Plumbing experts who will carry out the installation of the entire water system in the
@@ -115,7 +115,7 @@
                         <div class="img"> <img src="/img/services/9.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
-                        <div class="service-icon"> <i class="norc-pantone"></i> </div>
+                        <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
                         <h5><a href="#">Electrical work.</a></h5>
                         <p>
                             MC Construcciones is committed to deliver and maintain the electrical connections working

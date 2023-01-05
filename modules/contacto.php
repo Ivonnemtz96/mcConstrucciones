@@ -17,14 +17,14 @@
             <div class="col-md-5 mb-60">
                 <h5>Contact information</h5>
                 <p class="mb-30">
-                    If you have any doubts or questions, we are at your disposal.
+                    If you have any doubts or questions, we are at your service.
                 </p>
                 <div class="contact-link">
                     <div class="contact-link-icon"><span class="norc-phone"></span></div>
                     <div class="contact-link-content">
                         <div class="contact-link-title">Phone</div>
                         <div class="contact-link-text"><span>Ing. Mario Mendoza</span> <a
-                                href="tel:6243583690">6243583690</a></div>
+                                href="tel:6243583690">624-358-3690</a></div>
                     </div>
                 </div>
 
@@ -33,7 +33,7 @@
                     <div class="contact-link-content">
                         <div class="contact-link-title">Phone</div>
                         <div class="contact-link-text"><span>Ing. Raúl Mendoza</span> <a
-                                href="tel:6241450004">6241450004</a></div>
+                                href="tel:6241450004">624-145-0004</a></div>
                     </div>
                 </div>
                 <div class="contact-link">

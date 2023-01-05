@@ -24,8 +24,7 @@
                 <p>
                     The company has a wide range of projects aimed at its reason for being as an institution dedicated
                     to promote and guide the development of projects promoting and strengthening the science, technology
-                    and innovation of each project. and strengthening science, technology and innovation in each of the
-                    projects.
+                    and innovation of each project.
                 </p>
                 <ul class="listext list-unstyled mb-30">
                     <li>
@@ -87,8 +86,7 @@
                 <div class="col-md-6 offset-md-1 pt-60">
                     <div class="section-title2"><span>Mission</span></div>
                     <p>
-                        To meet the needs of our clients, exceeding their expectations, providing integrated
-                        expectations, providing integrated services in the design, development and design, development
+                        To meet the needs of our clients, exceeding their expectations, providing integrated services in the design, development and design, development
                         and construction of each project, using contemporary materials and innovative construction
                         systems innovative construction.
                     </p>

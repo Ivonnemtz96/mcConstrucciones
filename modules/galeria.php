@@ -24,18 +24,18 @@
                 </a>
             </div>
             <div class="col-md-6 gallery-item">
-                <a href="/img/services/2.jpg" title="Norc. Construction" class="img-zoom">
+                <a href="/img/services/16.jpg" title="Norc. Construction" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="/img/services/2.jpg" class="img-fluid mx-auto d-block"
+                        <div class="gallery-img"> <img src="/img/services/16.jpg" class="img-fluid mx-auto d-block"
                                 alt="work-img"> </div>
                     </div>
                 </a>
             </div>
             <!-- 3 columns -->
             <div class="col-md-4 gallery-item">
-                <a href="/img/services/3.jpg" title="Norc. Construction" class="img-zoom">
+                <a href="/img/services/15.jpg" title="Norc. Construction" class="img-zoom">
                     <div class="gallery-box">
-                        <div class="gallery-img"> <img src="/img/services/3.jpg" class="img-fluid mx-auto d-block"
+                        <div class="gallery-img"> <img src="/img/services/15.jpg" class="img-fluid mx-auto d-block"
                                 alt="work-img"> </div>
                     </div>
                 </a>
@@ -52,6 +52,49 @@
                 <a href="/img/services/5.jpg" title="Norc. Construction" class="img-zoom">
                     <div class="gallery-box">
                         <div class="gallery-img"> <img src="/img/services/5.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- 2 columns -->
+            <div class="col-md-6 gallery-item">
+                <a href="/img/services/6.jpg" title="Norc. Construction" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/6.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 gallery-item">
+                <a href="/img/services/13.jpg" title="Norc. Construction" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/13.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <!-- 3 columns -->
+            <div class="col-md-4 gallery-item">
+                <a href="/img/services/11.jpg" title="Norc. Construction" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/11.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 gallery-item">
+                <a href="/img/services/12.jpg" title="Norc. Construction" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/12.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 gallery-item">
+                <a href="/img/services/14.jpg" title="Norc. Construction" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/14.jpg" class="img-fluid mx-auto d-block"
                                 alt="work-img"> </div>
                     </div>
                 </a>
