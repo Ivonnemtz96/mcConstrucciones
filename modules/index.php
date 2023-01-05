@@ -373,7 +373,7 @@
 
 
  <!-- Video & Testiominals -->
- <section class="testimonials">
+ <section hidden class="testimonials">
      <div class="background bg-img bg-fixed section-padding pb-0 " data-background="/img/banner.jpg"
          data-overlay-dark="4" style="margin-bottom: 6rem;">
          <div class="container">
