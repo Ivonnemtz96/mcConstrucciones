@@ -167,9 +167,10 @@ $(function() {
         loop:true,
         margin: 30,
         mouseDrag:true,
-        autoplay: false,
+        autoplay: true,
         dots: true,
-        nav: false,
+        nav: true,
+        autoplayTimeout:3000,
         navText: ["<span class='lnr ti-angle-left'></span>","<span class='lnr ti-angle-right'></span>"],
         responsiveClass:true,
         responsive:{
