@@ -2,7 +2,7 @@
  <header class="header slider-fade">
      <div class="owl-carousel owl-theme">
          <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/2.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/9.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -19,7 +19,7 @@
                  </div>
              </div>
          </div>
-         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/1.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/8.jpg">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
@@ -38,23 +38,50 @@
                  </div>
              </div>
          </div>
-         <!-- <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/3.jpg">
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/6.jpg?=1">
              <div class="v-middle caption">
                  <div class="container">
                      <div class="row">
                          <div class="col-md-7">
                              <h4>Professional Team</h4>
-                             <h1>Build Your Dream House</h1>
-                             <p>Our 25 years working experience make a different construction building. Viverra
-                                 tristique
-                                 usto duis vitae diam neque nivamus estan the atin viverra nectow drana setlie.</p> <a
-                                 href="projects.html" class="button-primary">Our Projects</a> <a href="services.html"
-                                 class="button-tersiyer">Our Services</a>
+                             <h1>Build Your Dream House <br></h1>
+                             <a href="/galeria" class="button-primary">Gallery</a>
+                             <a href="/servicios" class="button-tersiyer">Services</a>
                          </div>
                      </div>
                  </div>
              </div>
-         </div> -->
+         </div>
+
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/7.jpg?=1">
+             <div class="v-middle caption">
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-md-7">
+                             <h4>Build and design with</h4>
+                             <h1>MC Construcciones <br></h1>
+                             <a href="/galeria" class="button-primary">Gallery</a>
+                             <a href="/servicios" class="button-tersiyer">Services</a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
+
+         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/slider/10.jpg?=1">
+             <div class="v-middle caption">
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-md-7">
+                             <h4>Local business</h4>
+                             <h1>We work to bring your ideas to life</h1>
+                             <a href="/galeria" class="button-primary">Gallery</a>
+                             <a href="/servicios" class="button-tersiyer">Services</a>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+         </div>
      </div>
  </header>
  <!-- About -->
@@ -98,7 +125,7 @@
                  </div> -->
              </div>
              <div class="col-md-6">
-                 <div class="about-img"> <img src="/img/about.jpg" alt="">
+                 <div class="about-img"> <img src="/img/03.jpg" alt="">
                      <div class="about-img-hotifer">
                          <p>
                              Our more than 10 years of work experience make a building different.
@@ -121,7 +148,7 @@
          <div class="row">
              <div class="col-md-12 owl-carousel owl-theme">
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/1a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/27.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-new-construction"></i>
                          <h3 class="services3-title">Design</h3>
@@ -137,7 +164,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/2a.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/28.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-construction-sign"></i>
                          <h3 class="services3-title">Building</h3>
@@ -167,7 +194,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/7.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/29.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-cogwheel"></i>
                          <h3 class="services3-title">Plumbing</h3>
@@ -182,7 +209,7 @@
                      </div>
                  </div>
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/8.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/30.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-pantone"></i>
                          <h3 class="services3-title">Interior finishes</h3>
@@ -198,7 +225,7 @@
                  </div>
 
                  <div class="services3 mb-30">
-                     <div class="services3-img"><img src="/img/services/9.jpg" alt="" class="w-100"></div>
+                     <div class="services3-img"><img src="/img/services/31.jpg" alt="" class="w-100"></div>
                      <div class="services3-content">
                          <i class="norc-pantone"></i>
                          <h3 class="services3-title">Remodeling</h3>
@@ -225,7 +252,7 @@
 
  <!-- Process -->
  <section class="process">
-     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
+     <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/04.jpg"
          data-overlay-dark="6">
          <div class="container">
              <div class="row">
