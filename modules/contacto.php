@@ -108,10 +108,7 @@
 <!-- Map Section -->
 
 <div class="container-fluid map-color animate-box">
-    <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.0195304545014!2d-109.71400898479136!3d23.096380884915703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5af80981a9fb%3A0xb9fa133ff13f11e5!2sMC%20CONSTRUCCIONES!5e0!3m2!1ses-419!2smx!4v1671655131457!5m2!1ses-419!2smx"
-        width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d334.51266074250515!2d-109.71422702744147!3d23.095016428650645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e6!4m3!3m2!1d23.0948149!2d-109.7142104!4m0!5e0!3m2!1ses-419!2smx!4v1673561726126!5m2!1ses-419!2smx" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
