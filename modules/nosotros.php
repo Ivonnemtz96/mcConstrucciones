@@ -1,6 +1,6 @@
 <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
 <section class="banner-header banner-img-top valign bg-img bg-fixed" data-overlay-dark="4"
-    data-background="/img/slider/1.jpg">
+    data-background="/img/slider/11.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-5 mt-45">
@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 mb-30">
-                <h5>>Building your ideas..<br> Designing your future</h5>
+                <h5>Building your ideas..<br> Designing your future</h5>
                 <p>
                     MC Construcciones was born in 2012 as a result of the accelerated growth of real estate
                     developments, hotels, subdivisions, housing, among others, in our municipality and the lack of
@@ -74,7 +74,7 @@
             <div class="row">
                 <div class="col-md-5">
                     <div class="about-info-img mb-60">
-                        <div class="img"> <img src="/img/about2.jpg" class="img-fluid" alt=""> </div>
+                        <div class="img"> <img src="/img/05.jpg" class="img-fluid" alt=""> </div>
                     </div>
                     <div class="section-title2">Vision</div>
                     <p>
@@ -91,7 +91,7 @@
                         systems innovative construction.
                     </p>
                     <div class="about-info-img pt-60">
-                        <div class="img"> <img src="/img/about3.jpg" class="img-fluid" alt=""> </div>
+                        <div class="img"> <img src="/img/06.jpg" class="img-fluid" alt=""> </div>
                     </div>
                 </div>
             </div>

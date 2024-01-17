@@ -17,7 +17,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/1.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/27_1.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-new-construction"></i> </div>
@@ -52,7 +52,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/3.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/28_1.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-factory"></i> </div>
@@ -67,7 +67,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/4.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/31_1.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-construction-sign"></i> </div>
@@ -82,7 +82,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/5.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/30_1.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-pantone"></i> </div>
@@ -97,7 +97,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/6.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/29_1.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
@@ -112,7 +112,7 @@
             <div class="col-md-4">
                 <div class="item mb-30">
                     <div class="service-img">
-                        <div class="img"> <img src="/img/services/9.jpg" alt=""> </div>
+                        <div class="img"> <img src="/img/services/10.jpg" alt=""> </div>
                     </div>
                     <div class="cont">
                         <div class="service-icon"> <i class="norc-cogwheel"></i> </div>
@@ -122,43 +122,6 @@
                             properly to reduce the probability of accidents and maximize the use of electricity in your
                             project.
                         </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Numbers -->
-<section class="numbers">
-    <div class="section-padding bg-img bg-fixed section-padding" data-background="/img/banner2.jpg"
-        data-overlay-dark="6">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="item text-center"> <span class="icon">
-                            <i class="front norc-design"></i>
-                            <i class="back norc-design"></i>
-                        </span>
-                        <h3 class="count">450</h3>
-                        <h6><span>01.</span> Designed projects</h6>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="item text-center"> <span class="icon">
-                            <i class="font norc-b-meeting"></i>
-                            <i class="back norc-b-meeting"></i>
-                        </span>
-                        <h3 class="count">450</h3>
-                        <h6><span>02.</span> Satisfied customers</h6>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="item text-center"> <span class="icon">
-                            <i class="front norc-paper-diploma"></i>
-                            <i class="back norc-paper-diploma"></i>
-                        </span>
-                        <h3 class="count">350</h3>
-                        <h6><span>03.</span> Projects completed</h6>
                     </div>
                 </div>
             </div>
