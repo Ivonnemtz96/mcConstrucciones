@@ -14,6 +14,51 @@
 <section class="section-padding">
     <div class="container">
         <div class="row">
+            <!-- 2 columns -->
+            <div class="col-md-6 gallery-item">
+                <a href="/img/services/galeria/01.jpg" title="Mc Construcciones" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/galeria/01.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-6 gallery-item">
+                <a href="/img/services/galeria/04.jpg" title="Mc Construcciones" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/galeria/04.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+
+            <!-- 3 columns -->
+            <div class="col-md-4 gallery-item">
+                <a href="/img/services/galeria/03.jpg" title="Mc Construcciones" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/galeria/03.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 gallery-item">
+                <a href="/img/services/galeria/02.jpg" title="Mc Construcciones" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/galeria/02.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 gallery-item">
+                <a href="/img/services/galeria/05.jpg" title="Mc Construcciones" class="img-zoom">
+                    <div class="gallery-box">
+                        <div class="gallery-img"> <img src="/img/services/galeria/05.jpg" class="img-fluid mx-auto d-block"
+                                alt="work-img"> </div>
+                    </div>
+                </a>
+            </div>
+
+
 
             <!-- 2 columns -->
             <div class="col-md-6 gallery-item">
