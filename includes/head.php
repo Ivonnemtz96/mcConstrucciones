@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="/css/plugins.css" />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Didact+Gothic&amp;family=Syne:wght@400;500;600;700;800&amp;display=swap">
-    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/style2.css" />
     
     <!-- captcha -->
  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
